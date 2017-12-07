@@ -7,7 +7,7 @@ Includes code to:
 * implement polarization correction
 * implement solid angle correction
 
-# Dependencies
+### Dependencies
 
 * scikit-beam: https://github.com/scikit-beam/scikit-beam
 * scikit-image: https://github.com/scikit-image/scikit-image
